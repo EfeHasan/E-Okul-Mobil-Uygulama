@@ -1,4 +1,3 @@
-markdown
 Kodu kopyala
 # E-Okul Projesi
 
